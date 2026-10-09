@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: |cff66cc99Bags Forever|r
+## Version: 1.00
+## SavedVariables: BagsForeverDB
+## IconTexture: Interface\Icons\INV_Misc_Bag_08
+
+## Notes: All your bags and the bank in one window: sort button, search, item level, quality borders, junk selling and repair.
+## Notes-esES: Todas tus bolsas y el banco en una ventana: botón de ordenar, buscador, nivel de objeto, bordes de calidad, venta de chatarra y reparación.
+## Notes-esMX: Todas tus bolsas y el banco en una ventana: botón de ordenar, buscador, nivel de objeto, bordes de calidad, venta de chatarra y reparación.
+
+Locales.lua
+Themes.lua
+BagsForever.lua
