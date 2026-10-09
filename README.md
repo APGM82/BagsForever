@@ -27,7 +27,7 @@ The gear button opens the options: the theme (the same ones as Alters Forever), 
 | `/bf options` | Open the options |
 | `/bf reset` | Put the windows back in place, at normal size |
 
-In English and Spanish. Other languages use English.
+Translated into the ten WoW client languages. Other languages use English.
 
 Made for World of Warcraft: Forever 1.60.1 (`Interface: 16001`).
 

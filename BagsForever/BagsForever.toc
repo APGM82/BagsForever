@@ -7,6 +7,14 @@
 ## Notes: All your bags and the bank in one window: sort button, search, item level, quality borders, junk selling and repair.
 ## Notes-esES: Todas tus bolsas y el banco en una ventana: botón de ordenar, buscador, nivel de objeto, bordes de calidad, venta de chatarra y reparación.
 ## Notes-esMX: Todas tus bolsas y el banco en una ventana: botón de ordenar, buscador, nivel de objeto, bordes de calidad, venta de chatarra y reparación.
+## Notes-deDE: Alle Taschen und die Bank in einem Fenster: Sortierknopf, Suche, Gegenstandsstufe, Qualitätsrahmen, Plunderverkauf und Reparatur.
+## Notes-frFR: Tous vos sacs et la banque dans une seule fenêtre : bouton de tri, recherche, niveau d'objet, bordures de qualité, vente de la camelote et réparation.
+## Notes-itIT: Tutte le borse e la banca in una sola finestra: pulsante per riordinare, ricerca, livello oggetto, bordi di qualità, vendita delle cianfrusaglie e riparazione.
+## Notes-ptBR: Todas as suas bolsas e o banco numa só janela: botão de organizar, busca, nível de item, bordas de qualidade, venda de sucata e conserto.
+## Notes-ruRU: Все сумки и банк в одном окне: кнопка сортировки, поиск, уровень предметов, рамки качества, продажа хлама и ремонт.
+## Notes-koKR: 모든 가방과 은행을 한 창에서: 정리 버튼, 검색, 아이템 레벨, 등급 테두리, 잡동사니 판매와 수리.
+## Notes-zhCN: 所有背包和银行都在一个窗口里：整理按钮、搜索、物品等级、品质边框、出售垃圾和修理。
+## Notes-zhTW: 所有背包和銀行都在一個視窗裡：整理按鈕、搜尋、物品等級、品質邊框、出售垃圾和修理。
 
 Locales.lua
 Themes.lua
